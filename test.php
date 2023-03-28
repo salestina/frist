@@ -1,2 +1,2 @@
 <?php
-var_dump("first_hot-fix");
+var_dump("second_hot-fix");
